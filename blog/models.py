@@ -1,2 +1,6 @@
 from django.db import models
-pass
+
+
+class Blog(models.Model):
+    pass
+
